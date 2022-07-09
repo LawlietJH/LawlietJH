@@ -1,5 +1,3 @@
-# Deleon
-
 ![](Deleon.png)
 
 ---
