@@ -5,5 +5,9 @@
   <br>
   https://app.hackthebox.com/profile/861002
   <br><br>
+  Blog
+  <br>
+  https://lawlietjh.github.io
+  <br><br>
   <img src="http://www.hackthebox.eu/badge/image/861002" alt="Deleon Badge - Hack The Box">
 </p>
