@@ -9,5 +9,5 @@
   <br>
   https://lawlietjh.github.io
   <br><br>
-  <img src="http://www.hackthebox.eu/badge/image/861002" alt="Deleon Badge - Hack The Box">
+  <img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/badges/861002.png" alt="Deleon Badge - Hack The Box">
 </p>
